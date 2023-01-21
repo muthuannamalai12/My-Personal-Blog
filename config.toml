@@ -17,7 +17,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Developer | Technical Writer | Freelancer"
 
 	# Optional 64x64 avatar image.
-	avatar = <img src = "resources/images/Muthu-Photo.jpeg">
+	avatar = <img src="resources/images/Muthu-Photo.jpeg">
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
