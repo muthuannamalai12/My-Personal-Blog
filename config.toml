@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Muthu Annamalai Venkatachalam's Blog"
+title = "Muthu Annamalai's Blog"
 theme = "ink"
 paginate = 5
 
