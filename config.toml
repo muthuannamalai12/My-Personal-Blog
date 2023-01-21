@@ -51,9 +51,24 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/muthu-annamalai/"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/muthuannamalai12"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/muthuannamalai_"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/muthuannamalai_/"
 
 [taxonomies]
    tag = "tags"
