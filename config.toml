@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ink"
+title = "Muthu Annamalai Venkatachalam's Blog"
 theme = "ink"
 paginate = 5
 
@@ -53,12 +53,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+url = "https://github.com/muthuannamalai12"
 
 [taxonomies]
    tag = "tags"
