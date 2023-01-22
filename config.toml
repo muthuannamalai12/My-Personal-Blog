@@ -12,6 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
+enableRobotsTXT = true
 
 [params]
 	subtitle = "Developer | Technical Writer | Freelancer"
