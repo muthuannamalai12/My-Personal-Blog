@@ -1,5 +1,5 @@
 ---
-title: "How To Contribute To Open-Source Projects As A Beginner"
+title: "Everything you need to know about Hackathons"
 date: 2021-07-02
 description: "In this article, we will take a deep dive into hackathons"
 tags: [hackathons]
