@@ -9,6 +9,8 @@ We are living in the era of globalization and only those who follow the path of 
 
 Here comes the lifesaver, **Buy Me a Coffee**. It offers seamless integration with our portfolio sites, shares on Twitter and Facebook, etc. In this article, I will share about What is Buy Me a Coffee and Step by Step procedure on how to start a page in BMC.
 
+<!--adsense-->
+
 # What is Buy Me a Coffee
 
 Buy Me a Coffee is a quick and simple way to accept support and offer extras to your audience. Instead of asking your audience to donate (Ko-fi) or ‘become your patron’ (Patreon), you can ask your audience to buy you a coffee. It’s that simple. You can also share exclusive posts for supporters, sell digital downloads, set goals, and more! The best part — all these features are available to everyone and you are never asked to pay a monthly fee to unlock a feature. It is a simple and meaningful way to fund our creative work.
@@ -64,5 +66,7 @@ I’d love to hear from you if you have any tips for BMC page new users like mys
 > If you have enjoyed this article and would like to buy me a coffee you can do it here 😊👇
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/muthuannamalai)
+
+<!--adsense-->
 
 Thanks for Reading 😊
