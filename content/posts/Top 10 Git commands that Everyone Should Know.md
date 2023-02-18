@@ -11,6 +11,8 @@ Git is an important part of daily programming (especially if you're working with
 
 Since there are many various commands you can use, mastering Git takes time. But some commands are used more frequently (some daily). So in this post, I will share and explain the top 10 Git commands that every developer should know.
 
+<!--adsense-->
+
 **1. Git Init**
 
 The git init command is used to initialize a blank repository. It creates a .git folder in the current working directory
@@ -120,5 +122,7 @@ So these are my 10 most-used git commands that I come across in my daily program
 > You can now extend your support by buying me a Coffee.😊👇
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/muthuannamalai)
-
+  
+<!--adsense-->
+  
 Thanks for Reading 😊
