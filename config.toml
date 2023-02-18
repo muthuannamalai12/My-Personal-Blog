@@ -71,5 +71,9 @@ name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/muthuannamalai_/"
 
+[params.adsense]
+client = "ca-pub-9853931863541556"
+inArticleSlot = "5356662056"
+
 [taxonomies]
    tag = "tags"
