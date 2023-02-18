@@ -21,7 +21,7 @@
 			</div>
 					
 			<div class="markdown">
-				{{ .Content }}
+				{{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
 			</div>
 
 			<div class="tags">
