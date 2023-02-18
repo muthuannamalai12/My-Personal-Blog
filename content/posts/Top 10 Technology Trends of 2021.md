@@ -9,6 +9,8 @@ The 21st century has been a century of technological change. Several highly comm
 
 If you want to learn about new technology trends and stay updated, let’s dive in. Here are the new trending technologies in 2021 you should check out and learn to master if you want to get an edge in the market.
 
+<!--adsense-->
+
 1- **Artificial Intelligence**
 
 Artificial Intelligence is never old and it is continuously evolving to attain various capabilities. Coming years will see the development of AI in ensuring better business predictions, sentiment analysis, and industrial automation. Automation has now become a necessity in most organizations. With AI, it becomes easier to understand customer trends and behavior. The future of AI is bright considering our growing dependency on it. Growth in the AI market will enhance the job opportunities in various sectors along with opening new avenues for technological innovations. AI has boosted many industries, especially healthcare and pharma during the pandemic. Coming years will witness revolutionary developments in AI since discussions are going on ethical AI, green AI, emotional AI, and many more areas.
@@ -111,5 +113,7 @@ In sectors such as financial services, robotic process automation can reduce the
 > You can now extend your support by buying me a Coffee.😊👇
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/muthuannamalai)
+
+<!--adsense-->
 
 Thanks for Reading 😊 
