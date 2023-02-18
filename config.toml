@@ -14,6 +14,11 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 enableRobotsTXT = true
 
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [params]
 	subtitle = "Developer | Technical Writer | Freelancer"
 
