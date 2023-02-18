@@ -13,6 +13,8 @@ Being a web developer and having a portfolio helps a lot while applying for oppo
 4. Links to other pages like Hobbies and Contact(displayed at bottom of the page)
 5. A contact form that emails details.
 
+<!--adsense-->
+
 **File structure**:
 
 - index.html
@@ -166,5 +168,7 @@ Link To GitHub Repository: https://github.com/muthuannamalai12/CV
 > You can now extend your support by buying me a Coffee.😊👇
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/muthuannamalai)
+
+<!--adsense-->
 
 Thanks for Reading 😊
