@@ -18,6 +18,10 @@ enableRobotsTXT = true
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
+  
+[params.adsense]
+client="ca-pub-9853931863541556"
+inArticleSlot="1463063783"
 
 [params]
 	subtitle = "Developer | Technical Writer | Freelancer"
@@ -75,10 +79,6 @@ url = "https://twitter.com/muthuannamalai_"
 name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/muthuannamalai_/"
-
-[params.adsense]
-client = "ca-pub-9853931863541556"
-inArticleSlot = "5356662056"
 
 [taxonomies]
    tag = "tags"
